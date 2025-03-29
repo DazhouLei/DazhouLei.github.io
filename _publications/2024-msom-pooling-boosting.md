@@ -1,7 +1,7 @@
 ---
 title: "Pooling and Boosting for Demand Prediction in Retail: A Transfer Learning Approach"
 collection: publications # 指定内容类型为 publications
-permalink: [/publication/2024-msom-pooling-boosting ](https://pubsonline.informs.org/doi/10.1287/msom.2022.0453)# 定义这篇文章的网址路径
+permalink: https://pubsonline.informs.org/doi/10.1287/msom.2022.0453 # 定义这篇文章的网址路径
 date: 2024-05-30 # 使用发表年份，或更具体的日期
 venue: "Manufacturing & Service Operations Management" # 发表期刊/会议
 paperurl: https://doi.org/10.1287/msom.2022.0453
