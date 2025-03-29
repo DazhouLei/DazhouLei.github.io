@@ -18,10 +18,10 @@ author_profile: true # 显示侧边栏作者信息
 ## Papers Under Revision 
 ---
 *<sup>*</sup>Corresponding author.*
-* Yujie Chi, **Dazhou Lei**<sup>*</sup>, Jianshen Zhang, Yongzhi Qi, Hao Hu, Li Zheng, & Zuo-Jun Max Shen. Demand Forecasting during Grand Promotion for Online Retailing. (Major Revision at ***Operations Research***).
-* Yujie Chi, **Dazhou Lei**<sup>*</sup>, Jianshen Zhang, Yongzhi Qi, Hao Hu, Li Zheng, & Zuo-Jun Max Shen. Bridging Historical Data and Future Markets: An Optimal Transport Policy for Demand Forecasting. (Under review at ***Management Science***).
-* Yongzhi Qi, Hao Hu, **Dazhou Lei**<sup>*</sup>, Jianshen Zhang, Zhengxin Shi, Yulin Huang, Zhengyu Chen, Xiaoming Lin, & Zuo-Jun Max Shen. TimeHF: Billion-Scale Time Series Models Guided by Human Feedback. (Under review at ***ICML***).
-* Genshen Fu, Pujun Zhang, **Dazhou Lei**<sup>*</sup>, Wei Qi, & Zuo-Jun Max Shen. Balancing Algorithmic Clairvoyance with Human Preferences: An Inverse Reinforcement Learning Approach for Last-Mile Deliveries. (Under review at ***Production and Operations Management***).
+* Yujie Chi, **Dazhou Lei<sup>*</sup>**, Jianshen Zhang, Yongzhi Qi, Hao Hu, Li Zheng, & Zuo-Jun Max Shen. Demand Forecasting during Grand Promotion for Online Retailing. (Major Revision at ***Operations Research***).
+* Yujie Chi, **Dazhou Lei<sup>*</sup>**, Jianshen Zhang, Yongzhi Qi, Hao Hu, Li Zheng, & Zuo-Jun Max Shen. Bridging Historical Data and Future Markets: An Optimal Transport Policy for Demand Forecasting. (Under review at ***Management Science***).
+* Yongzhi Qi, Hao Hu, **Dazhou Lei<sup>*</sup>**, Jianshen Zhang, Zhengxin Shi, Yulin Huang, Zhengyu Chen, Xiaoming Lin, & Zuo-Jun Max Shen. TimeHF: Billion-Scale Time Series Models Guided by Human Feedback. (Under review at ***ICML***).
+* Genshen Fu, Pujun Zhang, **Dazhou Lei<sup>*</sup>**, Wei Qi, & Zuo-Jun Max Shen. Balancing Algorithmic Clairvoyance with Human Preferences: An Inverse Reinforcement Learning Approach for Last-Mile Deliveries. (Under review at ***Production and Operations Management***).
     * *Finalist, POMS College of Service Operations Best Student Paper Competition, 2024*
     * *Third Place, POMS-China Best Paper Award, 2024*
     * *Third Place, CSAMSE Best Paper Award, 2024*
