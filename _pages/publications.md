@@ -14,14 +14,13 @@ author_profile: true # 显示侧边栏作者信息
 * **Dazhou Lei**, Hao Hu, Dongyang Geng, Jianshen Zhang, Yongzhi Qi, Sheng Liu, & Zuo-Jun Max Shen. (2023). New product life cycle curve modeling and forecasting with product attributes and promotion: A Bayesian functional approach. ***Production and Operations Management***.
   * *Accepted to the 16th INFORMS Workshop on Data Mining and Decision Analytics*
 
----
 ## Papers Under Revision 
----
-*<sup>*</sup>Corresponding author.*
-* Yujie Chi,  <strong>Dazhou Lei<sup>*</sup> <strong>, Jianshen Zhang, Yongzhi Qi, Hao Hu, Li Zheng, & Zuo-Jun Max Shen. Demand Forecasting during Grand Promotion for Online Retailing. (Major Revision at ***Operations Research***).
-* Yujie Chi,  <strong>Dazhou Lei<sup>*</sup> <strong>, Jianshen Zhang, Yongzhi Qi, Hao Hu, Li Zheng, & Zuo-Jun Max Shen. Bridging Historical Data and Future Markets: An Optimal Transport Policy for Demand Forecasting. (Under review at ***Management Science***).
-* Yongzhi Qi, Hao Hu,  <strong>Dazhou Lei<sup>*</sup> <strong>, Jianshen Zhang, Zhengxin Shi, Yulin Huang, Zhengyu Chen, Xiaoming Lin, & Zuo-Jun Max Shen. TimeHF: Billion-Scale Time Series Models Guided by Human Feedback. (Under review at ***ICML***).
-* Genshen Fu, Pujun Zhang,  <strong>Dazhou Lei<sup>*</sup> <strong>, Wei Qi, & Zuo-Jun Max Shen. Balancing Algorithmic Clairvoyance with Human Preferences: An Inverse Reinforcement Learning Approach for Last-Mile Deliveries. (Under review at ***Production and Operations Management***).
+
+**\*Corresponding author.*
+* Yujie Chi, <strong>Dazhou Lei*<strong>, Jianshen Zhang, Yongzhi Qi, Hao Hu, Li Zheng, & Zuo-Jun Max Shen. Demand Forecasting during Grand Promotion for Online Retailing. (Major Revision at ***Operations Research***).
+* Yujie Chi, <strong>Dazhou Lei*<strong>, Jianshen Zhang, Yongzhi Qi, Hao Hu, Li Zheng, & Zuo-Jun Max Shen. Bridging Historical Data and Future Markets: An Optimal Transport Policy for Demand Forecasting. (Under review at ***Management Science***).
+* Yongzhi Qi, Hao Hu, <strong>Dazhou Lei* <strong>, Jianshen Zhang, Zhengxin Shi, Yulin Huang, Zhengyu Chen, Xiaoming Lin, & Zuo-Jun Max Shen. TimeHF: Billion-Scale Time Series Models Guided by Human Feedback. (Under review at ***ICML***).
+* Genshen Fu, Pujun Zhang, <strong>Dazhou Lei* <strong>, Wei Qi, & Zuo-Jun Max Shen. Balancing Algorithmic Clairvoyance with Human Preferences: An Inverse Reinforcement Learning Approach for Last-Mile Deliveries. (Under review at ***Production and Operations Management***).
     * *Finalist, POMS College of Service Operations Best Student Paper Competition, 2024*
     * *Third Place, POMS-China Best Paper Award, 2024*
     * *Third Place, CSAMSE Best Paper Award, 2024*
