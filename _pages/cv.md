@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D. in Management Science and Engineering, Tsinghua University, 2024
   * Advisor: Prof. Zuo-Jun Max Shen
-  * Co-Advisors: Sheng Liu, Wei Qi
+  * Co-Advisors: Prof. Sheng Liu, Prof. Wei Qi
 * B.S. in Industrial Engineering, Tsinghua University, 2019
 
 Work experience
