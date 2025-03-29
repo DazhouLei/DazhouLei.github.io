@@ -22,9 +22,9 @@ repository              : "dazhoulei/dazhoulei.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar              : "images/myphoto.jpg" # 确保图片路径正确
+  avatar              : "images/myphoto.png" # 确保图片路径正确
   name                : "Dazhou Lei"
-  pronouns            : "he/him"
+  pronouns            : #
   bio                 : "Passionate about the intersection of data, decisions, and efficiency. Always learning, always building models. What's the next challenge?" # 更新为英文 Bio (基于选项 D)
   location            : "Beijing, China"
   employer            : "School of Economics and Management, Beijing Jiaotong University"
