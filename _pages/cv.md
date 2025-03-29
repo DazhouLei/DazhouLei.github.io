@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-======
-
+**[Download CV](/files/CV_Dazhou_Lei.pdf)** 
 
 
 Education
