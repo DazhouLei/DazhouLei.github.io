@@ -17,7 +17,7 @@ author_profile: true # 显示侧边栏作者信息
 ---
 ## Papers Under Revision 
 ---
-*Corresponding author.*
+*<sup>*</sup>Corresponding author.*
 * Yujie Chi, **Dazhou Lei**<sup>*</sup>, Jianshen Zhang, Yongzhi Qi, Hao Hu, Li Zheng, & Zuo-Jun Max Shen. Demand Forecasting during Grand Promotion for Online Retailing. (Major Revision at ***Operations Research***).
 * Yujie Chi, **Dazhou Lei**<sup>*</sup>, Jianshen Zhang, Yongzhi Qi, Hao Hu, Li Zheng, & Zuo-Jun Max Shen. Bridging Historical Data and Future Markets: An Optimal Transport Policy for Demand Forecasting. (Under review at ***Management Science***).
 * Yongzhi Qi, Hao Hu, **Dazhou Lei**<sup>*</sup>, Jianshen Zhang, Zhengxin Shi, Yulin Huang, Zhengyu Chen, Xiaoming Lin, & Zuo-Jun Max Shen. TimeHF: Billion-Scale Time Series Models Guided by Human Feedback. (Under review at ***ICML***).
