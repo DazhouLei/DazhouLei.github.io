@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I'm **Dazhou Lei**, an Associate Professor at the School of Economics and Management, Beijing Jiaotong University.
 
-My research interests lie at the intersection of Management Science, Data Science, and Operations Management. I focus on developing and applying data-driven models and machine learning techniques to address complex challenges，particularly in forecasting for online retailers and understanding human-AI interaction in decision processes.
+I tackle challenging problems where Data Science, Management Science, and Operations Management intersect. My focus extends beyond theoretical understanding to actively improving systems – I develop predictive models and data-driven decision tools designed for real-world impact, particularly in critical areas like forecasting for online retail and optimizing human-AI collaboration. I'm driven by the pursuit of innovative solutions that push boundaries and deliver tangible results in today's dynamic business environment.
 
 ## Research Interests
 
