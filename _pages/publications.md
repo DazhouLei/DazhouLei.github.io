@@ -19,7 +19,7 @@ author_profile: true # 显示侧边栏作者信息
 **Corresponding author.*
 * Yujie Chi, <strong>Dazhou Lei</strong>*, Jianshen Zhang, Yongzhi Qi, Hao Hu, Li Zheng, & Zuo-Jun Max Shen. Demand Forecasting during Grand Promotion for Online Retailing. (Major Revision at <em><strong>Operations Research</strong></em>).
 * Yujie Chi, <strong>Dazhou Lei</strong>*, Jianshen Zhang, Yongzhi Qi, Hao Hu, Li Zheng, & Zuo-Jun Max Shen. Bridging Historical Data and Future Markets: An Optimal Transport Policy for Demand Forecasting. (Major Revision at <em><strong>Management Science</strong></em>).
-* Yongzhi Qi, Hao Hu, <strong>Dazhou Lei</strong>*, Jianshen Zhang, Zhengxin Shi, Yulin Huang, Zhengyu Chen, Xiaoming Lin, & Zuo-Jun Max Shen. TimeHF: Billion-Scale Time Series Models Guided by Human Feedback. (Under review at <em><strong>ICML</strong></em>).
+* Yongzhi Qi, Hao Hu, <strong>Dazhou Lei</strong>*, Jianshen Zhang, Zhengxin Shi, Yulin Huang, Zhengyu Chen, Xiaoming Lin, & Zuo-Jun Max Shen. TimeHF: Billion-Scale Time Series Models Guided by Human Feedback. (Under review at <em><strong>NeurIPS</strong></em>).
 * Genshen Fu, Pujun Zhang, <strong>Dazhou Lei</strong>*, Wei Qi, & Zuo-Jun Max Shen. Balancing Algorithmic Clairvoyance with Human Preferences: An Inverse Reinforcement Learning Approach for Last-Mile Deliveries. (Under review at <em><strong>Production and Operations Management</strong></em>).
     * *Finalist, POMS College of Service Operations Best Student Paper Competition, 2024*
     * *Third Place, POMS-China Best Paper Award, 2024*
