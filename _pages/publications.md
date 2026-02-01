@@ -29,8 +29,8 @@ author_profile: true # 显示侧边栏作者信息
 * Genshen Fu, <strong>Dazhou Lei</strong>*, Xinyu Jiang,  Wei Qi, & Zuo-Jun Max Shen. Running on Empty? Reference Dependence and V-Shaped Decisions in Shared E-Bike User Choice (Under review at <em><strong>Manufacturing & Service Operations Management</strong></em>).
 * Yujie Chi &<strong>Dazhou Lei</strong>*. The Price of Digital Compassion: Exposing and Managing Latent Risks in AI Survey Augmentation (Under review at <em><strong>Information System Research</strong></em>).
 
+* <strong>Dazhou Lei</strong>, Sheng Liu, Dongyang Geng, Jianshen Zhang, Yongzhi Qi, & Hao Hu. Stockouts, Pageviews, and Data Imputation: Implications for Managing Long-Tail Products. (Under review at <em><strong>Manufacturing & Service Operations Management</strong></em>).
 
 ## Working Papers
 
-* Data Imputation for Long Tail Products. (with Sheng Liu).
 * Optimizing Influencer Marketing Campaign: A Joint Approach to Influencer Selection and Traffic Promotion. (with Pujun Zhang).
