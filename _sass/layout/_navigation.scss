@@ -234,6 +234,25 @@
       }
     }
 
+    #language-switch {
+      a {
+        margin: 0 0.4rem;
+        padding: 0.3rem 0.65rem;
+        border: 1px solid var(--global-border-color);
+        border-radius: 999px;
+        font-weight: 700;
+        line-height: 1.2;
+
+        &:before {
+          display: none;
+        }
+
+        &:hover {
+          border-color: var(--global-masthead-link-color-hover);
+        }
+      }
+    }
+
     a {
       position: relative;
 

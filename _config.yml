@@ -75,6 +75,18 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
+# Simplified Chinese sidebar content. Academic profile links are intentionally
+# shared with the English version so both language editions stay in sync.
+author_zh:
+  avatar            : "myphoto.png"
+  name              : "Dazhou Lei"
+  bio               : "关注数据、决策与效率的交汇。持续学习，持续建模，也持续寻找下一个值得解决的问题。"
+  location          : "中国，北京"
+  employer          : "北京交通大学经济管理学院"
+  email             : "dzlei@bjtu.edu.cn"
+  googlescholar     : "https://scholar.google.com/citations?user=Vp2xNHkAAAAJ"
+  orcid             : "https://orcid.org/0000-0001-5258-2602"
+
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:

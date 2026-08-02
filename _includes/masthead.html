@@ -1,4 +1,23 @@
 {% include base_path %}
+{% if page.lang == "zh-CN" %}
+  {% assign masthead_navigation = site.data.navigation.main_zh %}
+  {% assign masthead_home = "/zh/" %}
+  {% assign masthead_title = page.site_title | default: "Dazhou Lei | 个人主页" %}
+  {% assign language_label = "EN" %}
+  {% assign language_name = "切换到英文" %}
+  {% assign language_code = "en" %}
+  {% assign language_url = page.translation_url | default: "/" %}
+  {% assign theme_label = "切换明暗主题" %}
+{% else %}
+  {% assign masthead_navigation = site.data.navigation.main %}
+  {% assign masthead_home = "/" %}
+  {% assign masthead_title = page.site_title | default: site.title %}
+  {% assign language_label = "中文" %}
+  {% assign language_name = "切换到中文" %}
+  {% assign language_code = "zh-CN" %}
+  {% assign language_url = page.translation_url | default: "/zh/" %}
+  {% assign theme_label = "Toggle color theme" %}
+{% endif %}
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -6,8 +25,8 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg persist"><a href="{{ base_path }}/">{{ site.title }}</a></li>
-          {% for link in site.data.navigation.main %}
+          <li class="masthead__menu-item masthead__menu-item--lg persist"><a href="{{ base_path }}{{ masthead_home }}">{{ masthead_title }}</a></li>
+          {% for link in masthead_navigation %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
             {% else %}
@@ -15,8 +34,11 @@
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
+          <li id="language-switch" class="masthead__menu-item masthead__language-switch persist tail">
+            <a href="{{ base_path }}{{ language_url }}" lang="{{ language_code }}" hreflang="{{ language_code }}" aria-label="{{ language_name }}" title="{{ language_name }}">{{ language_label }}</a>
+          </li>
           <li id="theme-toggle" class="masthead__menu-item persist tail">
-            <a><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
+            <a role="button" tabindex="0" aria-label="{{ theme_label }}" title="{{ theme_label }}"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true"></i></a>
           </li>
         </ul>
         <ul class="hidden-links hidden"></ul>

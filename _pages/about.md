@@ -1,6 +1,11 @@
 ---
 permalink: /
 title: "About Me"
+description: "Dazhou Lei, Associate Professor at Beijing Jiaotong University, working at the intersection of data science, management science, and operations management."
+lang: en
+ui_locale: en-US
+site_title: "Dazhou Lei | Homepage"
+translation_url: /zh/
 author_profile: true
 redirect_from: 
   - /about/
@@ -47,4 +52,3 @@ I tackle challenging problems where Data Science, Management Science, and Operat
 At heart, I'm driven by a deep curiosity about uncovering the 'why' behind things and the hidden patterns that connect them. This fascination isn't limited to academic models; it's the same spark I feel when exploring historical events. I'm captivated by the challenge of modeling these complex systems – sifting through details, identifying key mechanisms – aiming to be both an **explorer**, mapping uncharted territories of data, and a **forecaster**, glimpsing potential futures illuminated by the patterns we discover.
 
 When unplugged from the data streams, I recharge by diving into books (history remains a steadfast favorite!), exploring narratives in film and music, and occasionally attempting my own writing.
-

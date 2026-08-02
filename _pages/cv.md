@@ -2,6 +2,11 @@
 layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
+description: "Curriculum vitae of Dazhou Lei."
+lang: en
+ui_locale: en-US
+site_title: "Dazhou Lei | Homepage"
+translation_url: /zh/cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,8 +14,7 @@ redirect_from:
 
 {% include base_path %}
 
-**[Download CV](/files/CV_Dazhou_Lei.pdf)** 
-
+**[Download CV](/files/CV_Dazhou_Lei.pdf)**
 
 Education
 ======
@@ -21,9 +25,8 @@ Education
 
 Work experience
 ======
-* 2024-Now: School of Economics and Management, Beijing Jiaotong 
+* 2024-Now: School of Economics and Management, Beijing Jiaotong
   * Associate Professor
-
 
 Industry & Consulting Experience
 ======
@@ -34,10 +37,9 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
 * Quantitative Models and Methods in Logistics
 * Railway Supply Management
 * Advanced Applied Statistics
-  
