@@ -21,7 +21,7 @@ author_profile: true
 
 ## 修改中论文
 
-*星号（\*）表示通讯作者。论文题目、作者姓名、期刊、投稿状态及奖项名称均保留其正式英文表述。*
+*星号（\*）表示通讯作者。*
 
 * Yujie Chi, <strong>Dazhou Lei</strong>*, Jianshen Zhang, Yongzhi Qi, Hao Hu, Li Zheng, & Zuo-Jun Max Shen. Demand Forecasting during Grand Promotion for Online Retailing (Minor Revision at <em><strong>Operations Research</strong></em>).
 * Yujie Chi, <strong>Dazhou Lei</strong>*, Jianshen Zhang, Yongzhi Qi, Hao Hu, Li Zheng, & Zuo-Jun Max Shen. Bridging Historical Data and Future Markets: An Optimal Transport Policy for Demand Forecasting (Minor Revision at <em><strong>Management Science</strong></em>).
