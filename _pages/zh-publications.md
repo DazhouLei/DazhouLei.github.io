@@ -23,7 +23,7 @@ author_profile: true
 
 *星号（\*）表示通讯作者。论文题目、作者姓名、期刊、投稿状态及奖项名称均保留其正式英文表述。*
 
-* Yujie Chi, <strong>Dazhou Lei</strong>*, Jianshen Zhang, Yongzhi Qi, Hao Hu, Li Zheng, & Zuo-Jun Max Shen. Demand Forecasting during Grand Promotion for Online Retailing (Major Revision at <em><strong>Operations Research</strong></em>).
+* Yujie Chi, <strong>Dazhou Lei</strong>*, Jianshen Zhang, Yongzhi Qi, Hao Hu, Li Zheng, & Zuo-Jun Max Shen. Demand Forecasting during Grand Promotion for Online Retailing (Minor Revision at <em><strong>Operations Research</strong></em>).
 * Yujie Chi, <strong>Dazhou Lei</strong>*, Jianshen Zhang, Yongzhi Qi, Hao Hu, Li Zheng, & Zuo-Jun Max Shen. Bridging Historical Data and Future Markets: An Optimal Transport Policy for Demand Forecasting (Minor Revision at <em><strong>Management Science</strong></em>).
     * *Third Place, POMS-China Best Paper Award, 2025*
 * Genshen Fu, <strong>Dazhou Lei</strong>*, Pujun Zhang, Wei Qi, & Zuo-Jun Max Shen. Learning for Guiding: A Pairwise Inverse Reinforcement Learning Framework for Last-Mile Deliveries (Major Revision at <em><strong>Management Science</strong></em>).
@@ -33,7 +33,7 @@ author_profile: true
     * *Runner-up, INFORMS Decision Analysis Society Student Paper Award, 2024*
 * <strong>Dazhou Lei</strong>, Sheng Liu, Dongyang Geng, Jianshen Zhang, Yongzhi Qi, & Hao Hu. Stockouts, Pageviews, and Data Imputation: Implications for Managing Long-Tail Products. (Major Revision at <em><strong>Manufacturing & Service Operations Management</strong></em>).
 * Yujie Chi & <strong>Dazhou Lei</strong>*. The Price of Digital Compassion: Exposing and Managing Latent Risks in AI Survey Augmentation (R&R at <em><strong>Information System Research</strong></em>).
-* Yongzhi Qi, Hao Hu, <strong>Dazhou Lei</strong>*, Jianshen Zhang, Zhengxin Shi, Yulin Huang, Zhengyu Chen, Xiaoming Lin, & Zuo-Jun Max Shen. TimeHF: Billion-Scale Time Series Models Guided by Human Feedback (Major Revision at <em><strong>OMEGA</strong></em>).
+* Yongzhi Qi, Hao Hu, <strong>Dazhou Lei</strong>*, Jianshen Zhang, Zhengxin Shi, Yulin Huang, Zhengyu Chen, Xiaoming Lin, & Zuo-Jun Max Shen. TimeHF: Billion-Scale Time Series Models Guided by Human Feedback (Minor Revision at <em><strong>OMEGA</strong></em>).
 * Genshen Fu, <strong>Dazhou Lei</strong>*, Xinyu Jiang, Wei Qi, & Zuo-Jun Max Shen. Running on Empty? Reference Dependence and V-Shaped Decisions in Shared E-Bike User Choice (Under review at <em><strong>Manufacturing & Service Operations Management</strong></em>).
 
 ## 工作论文
